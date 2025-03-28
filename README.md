@@ -1,4 +1,4 @@
-## DiaGioiHanhCHinhVN
+## DiaGioiHanhChinhVN
  Script tự động tải file excel từ website tổng cục thống kê https://danhmuchanhchinh.gso.gov.vn/ và chuyển sang dạng cây json.
 
   - Tỉnh
